@@ -1,43 +1,30 @@
 
-Formulário de Sugestões 01 - simples
+Formulário de Cadastro do cliente 01 - simples
 
-Para melhor atender nossos alunos, pedimos para que 
-se tiver alguma sugestão de melhoria para nossa plataforma de ensino,
-preencha os campos abaixo corretamente e deixe sua mensagem. 
+Para receber as novidades de nossa loja, faça um cadastro rápido aqui em nosso site
+preenchendo o formulário a seguir com suas informações.
+
+Em seguida você será redirecionado para a página principal da loja.
 
 Nome Completo:[preencher]
 
-Turma: ( ) ENIAC / ( ) LOVELACE / ( )TURING
-ou
+Data de Nascimento: [preencher]
 
-Turma: {lista de seleção com os 3 nomes}
+Telefone: [preencher]
 
-Qual sua sugestão de melhoria para nossa plataforma?
+E-mail: [preencher]
 
-Mensagem: [preencher]
+Senha: [preencher]
 
-{Enviar}  {Limpar}
+Podemos notificar voê por:
+(escolha no mínimo 01 opção)
 
-///////////////////////////////////////////////////
+( ) WhatsApp
+( ) E-mail
+( ) Telefone
 
-Formulário de Sugestões 02 - melhorado
-Para melhor atender nossa equipe de colaboradores e alunos, pedimos para que 
-se tiver alguma sugestão de melhoria para nossa plataforma de ensino, preencha 
-os campos abaixo corretamente e deixe sua mensagem. 
+{Concluir Cadastro}
 
-Cargo: ( )Aluno ( )Professor
-
-Nome Completo :[preencher]
-
-se Professor > Matéria:[preencher]
-se Aluno > Turma: [preencher]
-
-Qual sua sugestão de melhoria para nossa plataforma?
-
-Mensagem: [preencher]
-
-Clique no envelope abaixo para registrar sua resposta.
-
-{envelope.png}  {lixo.png}
+{Limpar Campos}
 
 ///////////////////////////////////////////////////

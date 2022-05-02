@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <header>
+             <meta charset="UTF-8">
+             <title>Cadastro</title>
+             <link rel="stylesheet" href="style.css">
+            
+             <h1 class="title">Cadastro Novo Cliente</h1>
+             <p class="info" >Para receber as novidades de nossa loja, faça um cadastro rápido aqui em nosso site
+                preenchendo o formulário a seguir com suas informações.</br>
+                Em seguida você será redirecionado para a página principal da loja.   
+             </p>
+        </header>
+        <form>
+            <div>
+              <label class="leg">Nome Completo: <input type="text" name="nome" placeholder="Digite seu Nome Completo"></label>   
+            </div>
+            </br>
+            <div>
+              <label  class="leg">Data de Nascimento: <input type="date" name="nascimento"></label>
+            </div>
+            </br>
+            <div>
+                <label  class="leg">Telefone: <input type="tel" name="telefone"></label>
+            </div>
+            </br>
+            <div>
+                <label  class="leg">E-mail: <input type="email" name="email"></label>
+            </div>
+            </br>
+            <div>
+                <label  class="leg">Senha: <input type="password" name="senha"></label>
+            </div>
+            <div>
+                <p class="linha">..........................................................................................................................</p>
+                <label for="msg" class="leg2"><strong>Podemos notificar você por:</strong></label></br>
+                <label class="leg">(Escolha no mínimo 01 opção)</label>
+            </div>
+            </br>
+            <div class="leg2">
+                <input type="checkbox" id="opcao1" name="wtt"/>
+                <label for="opcao1">WhatsApp</label>
+                </br>
+                <input type="checkbox" id="opcao2" name="email"/>
+                <label for="opcao2">E-mail</label>
+                </br>
+                <input type="checkbox" id="opcao3" name="telefone"/>
+                <label for="opcao3">Telefone</label>
+            </div>
+            </br>
+            <button type="submit" onclick="alert('Você receberá um e-mail para confirmação do cadastro em breve <3')">Concluir Cadastro</button>
+            <button type="reset"  onclick="alert('Os campos preenchidos serão limpos.')">Limpar Campos</button>
+        </form>
+        <img src="alpha.jpg" class="alpha">
+    </body>
+</html>

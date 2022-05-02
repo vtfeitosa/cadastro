@@ -1,9 +1,9 @@
 body {
-    background:#242928
+    background:#2b89a5
 }
 .title{ 
-    color: #8c8c8c;
-    font-size: 50px;
+    color: #ffff;
+    font-size: 45px;
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -39,6 +39,18 @@ textarea {
 input{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.alpha{
-    text-align: center;
+
+.leg {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: grey;
+
+}
+.leg2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: rgb(77, 72, 72);  
+}
+.linha{
+    color: #2b89a5;
 }
